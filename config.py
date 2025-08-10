@@ -1,5 +1,4 @@
-nombre_evaluador="rem"
-nombre_proceso="instrumentos-derivados" #nombre-proceso
+nombre_proceso="instrumentos-derivados-slim-rem" #nombre-proceso
 version_arquetipo_raw="slim" #slim|full
 periodicidad="diario"# diario|mensual|esporadico
 ##ORIGIN
