@@ -1,4 +1,4 @@
-nombre_proceso="instrumentos-derivados-slim-rem" #nombre-proceso
+nombre_proceso="instrumentos-derivados-slim-nico-rem" #nombre-proceso
 version_arquetipo_raw="slim" #slim|full
 periodicidad="diario"# diario|mensual|esporadico
 ##ORIGIN
